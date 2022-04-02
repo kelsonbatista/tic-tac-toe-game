@@ -18,7 +18,7 @@ This project is the classic Tic Tac Toe Game, written in Javascript.
 ---
 # Layout
 
-<img src="intro.gif" alt="Tic Tac Toe Game" style="width:50%;" />
+<img src="intro.gif" alt="Tic Tac Toe Game" style="width:55%;" />
 
 ---
 # Deployment / *Implantação*
