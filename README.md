@@ -23,4 +23,4 @@ This project is the classic Tic Tac Toe Game, written in Javascript.
 ---
 # Deployment / *Implantação*
 
-See it in action/ **Veja em ação**: [https://kelsonbatista.github.io/project-planets-search/](https://kelsonbatista.github.io/project-planets-search/)
+See it in action/ **Veja em ação**: [https://kelsonbatista.github.io/tic-tac-toe-game/](https://kelsonbatista.github.io/tic-tac-toe-game/)
